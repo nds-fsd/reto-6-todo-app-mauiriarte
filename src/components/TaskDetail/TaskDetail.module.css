@@ -1,0 +1,17 @@
+.deletetask {
+    border-radius: 4px;
+    background-color: #ff4757;
+    color: #2f3542;
+    border: none;
+    padding: 10px;
+  }
+
+.detailed-card {
+    height: 80px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: 8px;
+    padding: 1rem;
+}
