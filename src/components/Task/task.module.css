@@ -1,0 +1,32 @@
+.card {
+  height: 80px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.card:hover {
+  border: solid;
+  border-color: #3742fa;
+  border-width: 4px;
+  height: 72px;
+}
+
+.deletetask {
+  border-radius: 4px;
+  background-color: #ff4757;
+  color: #2f3542;
+  border: none;
+  padding: 10px;
+}
+
+input[type=checkbox] {
+  margin: 4px 0 0;
+  line-height: normal;
+  width: 20px;
+  height: 20px;
+}
